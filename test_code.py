@@ -1,2 +1,2 @@
-test_function(word):
+def test_function(word):
   print('Yay! ', word)
